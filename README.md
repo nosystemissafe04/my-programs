@@ -1,12 +1,12 @@
-Hi, I’m mohammad ali hanfi
+Hi, I’m Mohammad Ali Hanfi
 
 I’m interested in Technology development and cyber security
 
-I’m currently learning programing languages
+I’m currently learning programing languages (C/C++)
 
-I’m looking to collaborate on revolution of technology
+I want to collaborate in revolution of technology
 
-I'm looking for a future in IT and having some skills of networking(CCNA) and linux administrator
+I'm looking future in IT and having some skills like networking(CCNA) and linux administrator
 
 mailbox Mail me at alihanfi04@gmail.com
 
